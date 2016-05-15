@@ -1,0 +1,43 @@
+Results of the Vector Add for varying input sizes
+
+Vector addition : size 1000
+CPU to GPU Transfer Time: 0.033000 (ms) 
+GPU to CPU Transfer Time: 0.020000 (ms) 
+Overall Execution Time (Memory + GPU): 0.113000 (ms) 
+GPU Execution Time: 0.045000 (ms) 
+PASSED
+ 
+Vector addition : size 10000
+CPU to GPU Transfer Time: 0.069000 (ms) 
+GPU to CPU Transfer Time: 0.059000 (ms) 
+Overall Execution Time (Memory + GPU): 0.184000 (ms) 
+GPU Execution Time: 0.039000 (ms) 
+PASSED
+ 
+Vector addition : size 100000
+CPU to GPU Transfer Time: 0.429000 (ms) 
+GPU to CPU Transfer Time: 0.425000 (ms) 
+Overall Execution Time (Memory + GPU): 0.953000 (ms) 
+GPU Execution Time: 0.083000 (ms) 
+PASSED
+ 
+Vector addition : size 1000000
+CPU to GPU Transfer Time: 2.903000 (ms) 
+GPU to CPU Transfer Time: 3.421000 (ms) 
+Overall Execution Time (Memory + GPU): 6.582000 (ms) 
+GPU Execution Time: 0.237000 (ms) 
+PASSED
+ 
+Vector addition : size 1500000
+CPU to GPU Transfer Time: 4.195000 (ms) 
+GPU to CPU Transfer Time: 4.999000 (ms) 
+Overall Execution Time (Memory + GPU): 9.470000 (ms) 
+GPU Execution Time: 0.253000 (ms) 
+PASSED 
+
+Vector addition : size 2000000
+CPU to GPU Transfer Time: 5.450000 (ms) 
+GPU to CPU Transfer Time: 6.554000 (ms) 
+Overall Execution Time (Memory + GPU): 12.296000 (ms) 
+GPU Execution Time: 0.270000 (ms) 
+PASSED 

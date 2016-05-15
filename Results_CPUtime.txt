@@ -1,0 +1,65 @@
+Results along with the CPU execution time
+
+Vector addition : size 1000
+CPU Execution Time: 0.000000 (ms) 
+CPU to GPU Transfer Time: 0.034000 (ms) 
+GPU to CPU Transfer Time: 0.019000 (ms) 
+Overall Execution Time (Memory + GPU): 0.097000 (ms) 
+GPU Execution Time: 0.036000 (ms) 
+PASSED 
+
+Vector addition : size 10000
+CPU Execution Time: 0.000000 (ms) 
+CPU to GPU Transfer Time: 0.070000 (ms) 
+GPU to CPU Transfer Time: 0.039000 (ms) 
+Overall Execution Time (Memory + GPU): 0.158000 (ms) 
+GPU Execution Time: 0.038000 (ms) 
+PASSED 
+
+Vector addition : size 100000
+CPU Execution Time: 0.000000 (ms) 
+CPU to GPU Transfer Time: 0.421000 (ms) 
+GPU to CPU Transfer Time: 0.243000 (ms) 
+Overall Execution Time (Memory + GPU): 0.764000 (ms) 
+GPU Execution Time: 0.093000 (ms) 
+PASSED
+ 
+Vector addition : size 1000000
+CPU Execution Time: 0.000000 (ms) 
+CPU to GPU Transfer Time: 2.918000 (ms) 
+GPU to CPU Transfer Time: 1.642000 (ms) 
+Overall Execution Time (Memory + GPU): 4.818000 (ms) 
+GPU Execution Time: 0.250000 (ms) 
+PASSED
+ 
+Vector addition : size 1500000
+CPU Execution Time: 0.000000 (ms) 
+CPU to GPU Transfer Time: 4.160000 (ms) 
+GPU to CPU Transfer Time: 2.324000 (ms) 
+Overall Execution Time (Memory + GPU): 6.757000 (ms) 
+GPU Execution Time: 0.264000 (ms) 
+PASSED
+ 
+Vector addition : size 2000000
+CPU Execution Time: 10.000000 (ms) 
+CPU to GPU Transfer Time: 5.419000 (ms) 
+GPU to CPU Transfer Time: 3.045000 (ms) 
+Overall Execution Time (Memory + GPU): 8.759000 (ms) 
+GPU Execution Time: 0.276000 (ms) 
+PASSED
+ 
+Vector addition : size 5000000
+CPU Execution Time: 20.000000 (ms) 
+CPU to GPU Transfer Time: 13.079000 (ms) 
+GPU to CPU Transfer Time: 7.160000 (ms) 
+Overall Execution Time (Memory + GPU): 20.812000 (ms) 
+GPU Execution Time: 0.553000 (ms) 
+PASSED
+ 
+Vector addition : size 10000000
+CPU Execution Time: 30.000000 (ms) 
+CPU to GPU Transfer Time: 25.827000 (ms) 
+GPU to CPU Transfer Time: 14.069000 (ms) 
+Overall Execution Time (Memory + GPU): 40.830002 (ms) 
+GPU Execution Time: 0.914000 (ms) 
+PASSED 
